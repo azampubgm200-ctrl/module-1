@@ -1,0 +1,25 @@
+.box{
+    text-align: center;
+    background-color: aqua;
+    
+}
+
+.card{
+    width: 400px;
+    background-color: rgb(172, 169, 169);
+    text-align: center;
+    margin-top: 50px;
+}
+
+.png{
+    width: 200px;
+    height: 30px;
+    background-color: black;
+    color: #fbfbfb;
+border-radius: 50px;
+
+}
+
+body{
+    background-color: rgb(250, 106, 106);
+}
